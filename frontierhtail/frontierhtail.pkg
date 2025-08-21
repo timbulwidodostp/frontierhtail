@@ -1,4 +1,7 @@
-D 'dfsummary': Performs the (Augmented) Dickey-Fuller unit-root test and reports a summary table for different lags Use dfsummary With STATA 19
+D 'frontierhtail': Fits stochastic production frontier models for heavy tail data Use frontierhtail With STATA 19
 D
-F dfsummary.ado
-F dfsummary.sthlp
+F frontierhtail.ado
+F frontierhtail.sthlp
+F frontierhtail_lf.ado
+F frontierhtail_lf1.ado
+F frontierhtail_p.ado
